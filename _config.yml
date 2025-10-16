@@ -21,7 +21,7 @@
 title: pacbypass blog
 email: pacbypass@protonmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  at least my bugs always repro
+  at least my bugs repro
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://pacbypass.github.io/"
 twitter_username: pacbypass
