@@ -26,6 +26,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://pacbypass.github.io/"
 twitter_username: pacbypass
 github_username:  pacbypass
+linkedin_username: pacbypass
 
 # Build settings
 theme: minima
